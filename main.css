@@ -1,0 +1,73 @@
+.nav {
+
+}
+
+body {
+	position: relative;
+}
+
+.intro {
+	height:700px;
+	width:100%;
+}
+
+.jumbotron {
+	background: url(images/laback.jpg) no-repeat center center fixed;
+	background-position: cover;
+	-webkit-background-size: cover;
+  	-moz-background-size: cover;
+  	-o-background-size: cover;
+  	background-size: cover;
+  	width: 100%;
+  	height: 100%;
+
+  	
+}
+.jumbotron h1 {
+	font-size: 150px;
+	font-family: 'Quicksand', sans-serif;
+	color: #FFFFFF;
+}
+
+h1 {
+	font-size: 50px;
+	font-family: 'Quicksand', sans-serif;
+	color: #000000;
+	text-align: center;
+}
+
+#description {
+	background: url(images/darkgraypatt.png) repeat; 
+	height: 300px;
+	margin: auto 0;
+}
+p {
+	font-size: 20px;
+	font-family: 'BenchNine', sans-serif;
+	color: white;
+	padding: 40px 40px;
+
+}
+#projects {
+	background: url(images/beigepatt.png) repeat; 
+	height: 700px;
+	margin: auto 0;
+	padding: 25px;
+}
+#projects h1 {
+	color: black;
+	text-align: center;
+}
+
+#projects p {
+	color: black;
+}
+
+#contact {
+	padding-bottom: 30px;
+}
+footer {
+	background: url(images/darkgraypatt.png) repeat;
+	height:250px;
+	width:100%;
+}
